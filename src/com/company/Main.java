@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
         String input="2020/09/01 20:50";
-        String email="ennnbaev@icloud.bjb";
+        String email="ennnbaev@icloud.com";
         System.out.println(checkData(input));
        System.out.println(domen(email));
     }
